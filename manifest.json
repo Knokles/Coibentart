@@ -1,0 +1,36 @@
+
+{
+  "name": "CoibentArt Pro",
+  "short_name": "CoibentArt",
+  "description": "Gestionale avanzato Coibentart: timbrature GPS, documenti e AI Assistant.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F9FAFB",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuB9KprUy3Jkix_hbdYMVMhRMTM8yCsxynwuDpreBiBVDpkGKMIOVR4qjSc5Jbxdd0OMJkzScHVWW5eybmzGxQE40-qLJwvHkYmiuQRRRIRVq8EHhG5LdRc4CI7HRhXIKdo4Vy5V4HTGi1v5SdkDHuNC5Ts5wtinrE56llCy7ykASh5SVsZBA58Y1j35nKYWTU6KO4y-U_tPBU3AJxi3zGG8XF3c5-b1tIk2tH9ceJq6kEX-L2tqh7cNoi2PnGQNHijgdJkyi6HK-uE",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuB9KprUy3Jkix_hbdYMVMhRMTM8yCsxynwuDpreBiBVDpkGKMIOVR4qjSc5Jbxdd0OMJkzScHVWW5eybmzGxQE40-qLJwvHkYmiuQRRRIRVq8EHhG5LdRc4CI7HRhXIKdo4Vy5V4HTGi1v5SdkDHuNC5Ts5wtinrE56llCy7ykASh5SVsZBA58Y1j35nKYWTU6KO4y-U_tPBU3AJxi3zGG8XF3c5-b1tIk2tH9ceJq6kEX-L2tqh7cNoi2PnGQNHijgdJkyi6HK-uE",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Timbra Presenza",
+      "url": "./index.html",
+      "icons": [{ "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuB9KprUy3Jkix_hbdYMVMhRMTM8yCsxynwuDpreBiBVDpkGKMIOVR4qjSc5Jbxdd0OMJkzScHVWW5eybmzGxQE40-qLJwvHkYmiuQRRRIRVq8EHhG5LdRc4CI7HRhXIKdo4Vy5V4HTGi1v5SdkDHuNC5Ts5wtinrE56llCy7ykASh5SVsZBA58Y1j35nKYWTU6KO4y-U_tPBU3AJxi3zGG8XF3c5-b1tIk2tH9ceJq6kEX-L2tqh7cNoi2PnGQNHijgdJkyi6HK-uE", "sizes": "192x192" }]
+    },
+    {
+      "name": "Buste Paga",
+      "url": "./index.html",
+      "icons": [{ "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuB9KprUy3Jkix_hbdYMVMhRMTM8yCsxynwuDpreBiBVDpkGKMIOVR4qjSc5Jbxdd0OMJkzScHVWW5eybmzGxQE40-qLJwvHkYmiuQRRRIRVq8EHhG5LdRc4CI7HRhXIKdo4Vy5V4HTGi1v5SdkDHuNC5Ts5wtinrE56llCy7ykASh5SVsZBA58Y1j35nKYWTU6KO4y-U_tPBU3AJxi3zGG8XF3c5-b1tIk2tH9ceJq6kEX-L2tqh7cNoi2PnGQNHijgdJkyi6HK-uE", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Copy of CoibentArt Pro",
+  "short_name": "CoibentArt",
+  "description": "Sistema gestionale avanzato per la forza lavoro di Coibentart. Gestione timbrature, AI Assistant e documenti.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "theme_color": "#4CAF50",
+  "background_color": "#F9FAFB"
+}
